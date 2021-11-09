@@ -1,6 +1,6 @@
 # Responsive Portfolio Website with HTML, CSS & JavaScript
 
-![Responsive Portfolio Website with HTML, CSS and JavaScript] !(https://nazir-hussain.github.io/Responsive-Portffolio/)
+Responsive Portfolio Website with HTML, CSS and JavaScript !(https://nazir-hussain.github.io/Responsive-Portffolio/)
 
 Preview of projects
 ![Screenshot (74) (1)](https://user-images.githubusercontent.com/56648155/140985310-77564b6a-404c-4250-a11f-5cfe3fd49993.png)
